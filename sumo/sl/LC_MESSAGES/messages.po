@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: support.mozilla.com\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-19 13:29-0700\n"
-"PO-Revision-Date: 2015-10-22 06:53+0000\n"
+"PO-Revision-Date: 2015-10-22 06:58+0000\n"
 "Last-Translator: matjaz.horvat <matjaz.horvat@gmail.com>\n"
 "Language-Team: Slovenian\n"
 "Language: sl\n"
@@ -6757,10 +6757,9 @@ msgid "Other"
 msgstr "Drugo"
 
 #: kitsune/sumo/db_strings.py:94
-#, fuzzy
 msgctxt "DB: products.Topic.title"
 msgid "How to use Firefox for Android"
-msgstr "Firefox za iOS"
+msgstr "Kako uporabljati Firefox za Android"
 
 #: kitsune/sumo/db_strings.py:95
 msgctxt "DB: products.Topic.description"
