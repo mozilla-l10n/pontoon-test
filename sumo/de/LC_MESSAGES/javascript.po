@@ -1,0 +1,738 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-08 15:19-0700\n"
+"PO-Revision-Date: 2015-05-13 15:56+0000\n"
+"Last-Translator: Michael <michael.koehler1@gmx.de>\n"
+"Language-Team: none\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1431532590.0\n"
+
+#~ msgid "An error occured."
+#~ msgstr "Ein Fehler ist aufgetreten."
+
+#~ msgid "There was an error generating the preview."
+#~ msgstr "Beim Erstellen der Vorschau ist ein Fehler aufgetreten."
+
+#~ msgid "There was an error submitting your vote."
+#~ msgstr "Bei der Übermittlung ihrer Abstimmung ist ein Fehler aufgetreten."
+
+# Strings ohne Zusammenhang machen ja immer so viel Spaß. Ich nehme mal das fuzzy raus, dann werden wir schon sehen, was passt.
+#~ msgid "You replied"
+#~ msgstr "Sie haben beantwortet"
+
+#~ msgid "You and 1 other replied"
+#~ msgstr "Sie und 1 Anderer haben beantwortet"
+
+#~ msgid "Account banned successfully!"
+#~ msgstr "Benutzerkonto erfolgreich gesperrt!"
+
+#~ msgid "Username not provided."
+#~ msgstr "Kein Benutzername angegeben."
+
+#~ msgid "This account is already banned!"
+#~ msgstr "Dieses Benutzerkonto wurde bereits gesperrt!"
+
+#~ msgid "Account is now being ignored!"
+#~ msgstr "Benutzerkonto wird nun ignoriert!"
+
+#~ msgid "This account is already being ignored!"
+#~ msgstr "Dieses Benutzerkonto wird bereits ignoriert!"
+
+#~ msgid "1 user unbanned successfully!"
+#~ msgid_plural "%s users unbanned sucessfully!"
+#~ msgstr[0] "Ein Benutzer erfolgreich entsperrt!"
+#~ msgstr[1] "%s Benutzer erfolgreich entsperrt!"
+
+#~ msgid "1 user removed from list!"
+#~ msgid_plural "%s users removed from list!"
+#~ msgstr[0] "Ein Benutzer aus Liste entfernt!"
+#~ msgstr[1] "%s Benutzer aus Liste entfernt!"
+
+#~ msgid "No users selected!"
+#~ msgstr "Keine Benutzer ausgewählt!"
+
+#~ msgid "%(num)s <small>of %(total)s</small>"
+#~ msgstr "%(num)s <small>von %(total)s</small>"
+
+#~ msgid "No differences found"
+#~ msgstr "Keine Unterschiede"
+
+#~ msgid "Cancel"
+#~ msgstr "Abbrechen"
+
+#~ msgid "You are not watching this thread"
+#~ msgstr "Sie beobachten dieses Diskussionsthema nicht"
+
+#~ msgid "You are watching this thread"
+#~ msgstr "Sie beobachten dieses Diskussionsthema"
+
+#~ msgid "Image Attachment"
+#~ msgstr "Grafik-Anhang"
+
+#~ msgid "Could not upload file. Please try again later."
+#~ msgstr "Die Datei konnte nicht hochgeladen werden. Bitte versuchen Sie es später nochmals."
+
+#~ msgid "Invalid image. Please select a valid image file."
+#~ msgstr "Ungültige Grafik. Bitte wählen Sie eine Grafik in einem zulässigen Dateiformat aus."
+
+#~ msgid "Image too large. Please select a smaller image file."
+#~ msgstr "Grafik zu groß. Bitte wählen Sie eine kleinere Grafikdatei aus."
+
+#~ msgid "Upload cancelled. Please select an image file."
+#~ msgstr "Hochladen abgebrochen. Bitte wählen Sie eine Grafikdatei."
+
+#~ msgid "File deleted. Please select an image file."
+#~ msgstr "Datei gelöscht. Bitte wählen Sie eine Grafikdatei."
+
+#~ msgid "Delete this image"
+#~ msgstr "Grafik löschen"
+
+#~ msgid "Uploading \"%s\"..."
+#~ msgstr "\"%s\" wird hochgeladen..."
+
+#~ msgid "Loading..."
+#~ msgstr "Laden…"
+
+#~ msgid "No votes data"
+#~ msgstr "Keine Daten zu Abstimmungen"
+
+#~ msgid "Error loading graph"
+#~ msgstr "Fehler beim Laden des Diagramms"
+
+#~ msgid "Votes"
+#~ msgstr "Stimmen"
+
+#~ msgid "Percent"
+#~ msgstr "Prozent"
+
+#~ msgid "Yes"
+#~ msgstr "Ja"
+
+#~ msgid "No"
+#~ msgstr "Nein"
+
+#~ msgid "Questions"
+#~ msgstr "Fragen"
+
+#~ msgid "Solved"
+#~ msgstr "Gelöst"
+
+#~ msgid "% Solved"
+#~ msgstr "% Gelöst"
+
+#~ msgid "Responded in 24 hours"
+#~ msgstr "Innerhalb von 24 Stunden beantwortet"
+
+#~ msgid "% Responded in 24 hours"
+#~ msgstr "% Innerhalb von 24 Stunden beantwortet"
+
+#~ msgid "Responded in 72 hours"
+#~ msgstr "Innerhalb von 72 Stunden beantwortet"
+
+#~ msgid "% Responded in 72 hours"
+#~ msgstr "% Innerhalb von 72 Stunden beantwortet"
+
+#~ msgid "Not responded in 24 hours"
+#~ msgstr "Innerhalb von 24 Stunden nicht beantwortet"
+
+#~ msgid "Not responded in 72 hours"
+#~ msgstr "Innerhalb von 72 Stunden nicht beantwortet"
+
+#~ msgid "Article Votes: % Helpful"
+#~ msgstr "Stimmen zum Artikel: % Nützlich"
+
+#~ msgid "Answer Votes: % Helpful"
+#~ msgstr "Stimmen zur Antwort: % Nützlich"
+
+#~ msgid "en-US KB"
+#~ msgstr "Englischsprachige Wissensdatenbank"
+
+#~ msgid "non en-US KB"
+#~ msgstr "Nicht-englischsprachige Wissensdatenbank"
+
+#~ msgid "Support Forum"
+#~ msgstr "Hilfeforum"
+
+#~ msgid "Army of Awesome"
+#~ msgstr "Hilfe auf Twitter"
+
+#~ msgid "Click Through Rate %"
+#~ msgstr "Klickrate der Suche %"
+
+#~ msgid "Visitors"
+#~ msgstr "Besucher"
+
+#~ msgid "L10n Coverage"
+#~ msgstr "L10n-Umfang"
+
+#~ msgid "Percent Yes"
+#~ msgstr "Prozent Ja"
+
+#~ msgid "I don't know"
+#~ msgstr "Weiß nicht"
+
+#~ msgid "Bold"
+#~ msgstr "Fett"
+
+#~ msgid "bold text"
+#~ msgstr "fetter Text"
+
+#~ msgid "Italic"
+#~ msgstr "Kursiv"
+
+#~ msgid "italic text"
+#~ msgstr "kursiver Text"
+
+#~ msgid "Numbered List"
+#~ msgstr "Nummerierte Liste"
+
+#~ msgid "Numbered list item"
+#~ msgstr "Punkt der nummerierten Liste"
+
+#~ msgid "Bulleted List"
+#~ msgstr "Aufzählungsliste"
+
+#~ msgid "Bulleted list item"
+#~ msgstr "Aufzählungslistenpunkt"
+
+#~ msgid "Heading 1"
+#~ msgstr "1. Überschrift"
+
+#~ msgid "Heading 2"
+#~ msgstr "2. Überschrift"
+
+#~ msgid "Heading 3"
+#~ msgstr "3. Überschrift"
+
+#~ msgid "Insert a link..."
+#~ msgstr "Hyperlink einfügen..."
+
+#~ msgid "link text"
+#~ msgstr "Hyperlinktext"
+
+#~ msgid "Link text:"
+#~ msgstr "Hyperlinktext:"
+
+#~ msgid "Link target:"
+#~ msgstr "Ziel des Hyperlinks:"
+
+#~ msgid "Support article:"
+#~ msgstr "Hilfe-Artikel:"
+
+#~ msgid "Enter the name of the article"
+#~ msgstr "Geben Sie den Namen des Artikels ein"
+
+#~ msgid "External link:"
+#~ msgstr "Externer Hyperlink:"
+
+#~ msgid "Enter the URL of the external link"
+#~ msgstr "Geben Sie die URL des externen Hyperlinks ein"
+
+#~ msgid "No sections found"
+#~ msgstr "Keine Abschnitte gefunden"
+
+#~ msgid "Insert Link"
+#~ msgstr "Hyperlink einfügen"
+
+#~ msgid "Knowledge Base Article"
+#~ msgstr "Wissensdatenbankartikel"
+
+#~ msgid "Insert media..."
+#~ msgstr "Medien einfügen…"
+
+#~ msgid "media"
+#~ msgstr "Medien"
+
+#~ msgid "Search Gallery"
+#~ msgstr "Galerie durchsuchen"
+
+#~ msgid "Show:"
+#~ msgstr "Anzeigen:"
+
+#~ msgid "Images"
+#~ msgstr "Grafiken"
+
+#~ msgid "Videos"
+#~ msgstr "Videos"
+
+#~ msgid "Show media for:"
+#~ msgstr "Medien anzeigen für:"
+
+#~ msgid "Insert Media"
+#~ msgstr "Medien einfügen"
+
+#~ msgid "Upload Media"
+#~ msgstr "Medien hochladen"
+
+#~ msgid "Please select an image or video to insert."
+#~ msgstr "Bitte wählen Sie eine Grafik oder ein Video, das Sie einfügen möchten."
+
+#~ msgid "Oops, there was an error."
+#~ msgstr "Hoppla, da ist ein Fehler passiert."
+
+#~ msgid "Common responses"
+#~ msgstr "Häufige Antworten"
+
+#~ msgid "cannedresponses"
+#~ msgstr "Vorgefertigte Antworten"
+
+#~ msgid "Search for common responses"
+#~ msgstr "Nach häufigen Antworten suchen"
+
+#~ msgid "Categories"
+#~ msgstr "Kategorien"
+
+#~ msgid "Responses"
+#~ msgstr "Antworten"
+
+#~ msgid "Please select a category from the previous column or start a search."
+#~ msgstr "Bitte wählen Sie aus der vorherigen Spalte eine Kategorie oder starten Sie eine Suche."
+
+#~ msgid "Response editor"
+#~ msgstr "Antwort-Editor"
+
+#~ msgid "Switch to preview mode"
+#~ msgstr "Zum Vorschau-Modus wechseln"
+
+#~ msgid "Insert Response"
+#~ msgstr "Antwort einfügen"
+
+#~ msgid "Matching responses"
+#~ msgstr "Passende Antworten"
+
+#~ msgid "There was an error checking for canned responses."
+#~ msgstr "Beim Suchen nach vorbereiteten Antworten ist ein Fehler aufgetreten."
+
+#~ msgid "Response preview"
+#~ msgstr "Vorschau der Antwort"
+
+#~ msgid "Switch to edit mode"
+#~ msgstr "Zum Bearbeitungs-Modus wechseln"
+
+#~ msgid "Quote previous message..."
+#~ msgstr "Vorherige Nachricht zitieren…"
+
+#~ msgid " said"
+#~ msgstr " schrieb"
+
+#~ msgid "Reply..."
+#~ msgstr "Antwort..."
+
+#~ msgid "%s characters remaining"
+#~ msgstr "Noch %s Zeichen"
+
+#~ msgid "There was an error."
+#~ msgstr "Ein Fehler ist aufgetreten."
+
+#~ msgid "There was an error. Please try again in a moment."
+#~ msgstr "Ein Fehler ist aufgetreten. Bitte warten Sie einen Moment und versuchen Sie es dann erneut."
+
+#~ msgid "Daily"
+#~ msgstr "Täglich"
+
+#~ msgid "Weekly"
+#~ msgstr "Wöchentlich"
+
+#~ msgid "Monthly"
+#~ msgstr "Monatlich"
+
+#~ msgid "Week beginning %(year)s-%(month)s-%(date)s"
+#~ msgstr "Woche mit Beginn am %(date)s. %(month)s. %(year)s"
+
+#~ msgid "Month beginning %(year)s-%(month)s-%(date)s"
+#~ msgstr "Monat mit Beginn am %(date)s. %(month)s. %(year)s"
+
+#~ msgid "1m"
+#~ msgstr "1 M."
+
+#~ msgid "3m"
+#~ msgstr "3 M."
+
+#~ msgid "6m"
+#~ msgstr "6 M."
+
+# Laufendes Jahr
+#~ msgid "YTD"
+#~ msgstr "Lfd. J."
+
+#~ msgid "1y"
+#~ msgstr "1 J."
+
+#~ msgid "All"
+#~ msgstr "Alle"
+
+#~ msgid "From %(from_input)s to %(to_input)s"
+#~ msgstr "Von %(from_input)s nach %(to_input)s"
+
+#~ msgid "Invalid tag entered: %s"
+#~ msgstr "Ungültiges Schlagwort eingegeben: %s"
+
+#~ msgid "No tags entered."
+#~ msgstr "Keine Schlagwörter eingegeben."
+
+#~ msgid "No, ignore"
+#~ msgstr "Nein, ignorieren"
+
+#~ msgid "Did you mean %s?"
+#~ msgstr "Meinten Sie %s?"
+
+#~ msgid "Error uploading image"
+#~ msgstr "Fehler beim Hochladen der Grafik"
+
+#~ msgid "Error deleting image"
+#~ msgstr "Fehler beim Löschen der Grafik"
+
+#~ msgid "Please check you are logged in, and try again."
+#~ msgstr "Bitte vergewissern Sie sich, dass Sie angemeldet sind, und versuchen Sie es erneut."
+
+#~ msgid "Search for a user..."
+#~ msgstr "Nach einem Benutzer suchen…"
+
+#~ msgid "WARNING! Are you sure you want to deactivate this user? This cannot be undone!"
+#~ msgstr "WARNUNG! Möchten Sie diesen Benutzer wirklich deaktivieren? Dies kann nicht rückgängig gemacht werden!"
+
+#~ msgid "All Articles: % Localized"
+#~ msgstr "Alle Artikel: % lokalisiert"
+
+#~ msgid "Top 20 Articles: % Localized"
+#~ msgstr "Wichtigste 20 Artikel: % lokalisiert"
+
+#~ msgid "Top 100 Articles: % Localized"
+#~ msgstr "Wichtigste 100 Artikel: % lokalisiert"
+
+#~ msgid "Active Contributors"
+#~ msgstr "Aktive Mitwirkende"
+
+#~ msgid "A document with this title already exists in this locale."
+#~ msgstr "Ein Dokument mit diesem Titel existiert bereits in dieser Sprache."
+
+#~ msgid "A document with this slug already exists in this locale."
+#~ msgstr "Ein Dokument mit diesem Adressnamen existiert bereits in dieser Sprache."
+
+#~ msgid "Choose revisions to compare"
+#~ msgstr "Wählen Sie die zu vergleichenden Versionen"
+
+#~ msgid "Toggle syntax highlighting"
+#~ msgstr "Syntaxhervorhebung umschalten"
+
+#~ msgid "Toggle Diff"
+#~ msgstr "Diff umschalten"
+
+#~ msgid "Show for..."
+#~ msgstr "Anzeigen für…"
+
+#~ msgid "Show content only for specific versions of Firefox or operating systems."
+#~ msgstr "Inhalt nur für bestimmte Versionen von Firefox oder Betriebssystemen anzeigen."
+
+#~ msgid "Add Rule"
+#~ msgstr "Regel hinzufügen"
+
+#~ msgid "Installing..."
+#~ msgstr "Installieren…"
+
+#~ msgid "Answers"
+#~ msgstr "Antworten"
+
+#~ msgid "Unhelpful Answers"
+#~ msgstr "Nicht hilfreiche Antworten"
+
+#~ msgid "Solutions"
+#~ msgstr "Lösungen"
+
+#~ msgid "Helpful Answers"
+#~ msgstr "Hilfreiche Antworten"
+
+#~ msgid "First Answers"
+#~ msgstr "Erste Antworten"
+
+#~ msgid "Signing you in..."
+#~ msgstr "Sie werden angemeldet…"
+
+#~ msgid "Mozilla Support"
+#~ msgstr "Mozilla-Hilfe"
+
+#~ msgid "[missing header]"
+#~ msgstr "[fehlende Kopfzeile]"
+
+#~ msgid "Table of Contents"
+#~ msgstr "Inhaltsverzeichnis"
+
+#~ msgid "Insert a canned response..."
+#~ msgstr "Vorbereitete Antwort einfügen …"
+
+#~ msgid "Invalid video. Please select a valid FLV video."
+#~ msgstr "Ungültiges Video. Bitte wählen Sie ein gültiges FLV-Video."
+
+#~ msgid "Upload cancelled. Please select an FLV video."
+#~ msgstr "Hochladen abgebrochen. Bitte wählen Sie ein FLV-Video."
+
+#~ msgid "File deleted. Please select an FLV video."
+#~ msgstr "Datei gelöscht. Bitte wählen Sie ein FLV-Video."
+
+#~ msgid "Delete FLV video"
+#~ msgstr "FLV-Video löschen"
+
+#~ msgid "Invalid video. Please select a valid OGV video."
+#~ msgstr "Ungültiges Video. Bitte wählen Sie ein gültiges OGV-Video."
+
+#~ msgid "Upload cancelled. Please select an OGV video."
+#~ msgstr "Hochladen abgebrochen. Bitte wählen Sie ein OGV-Video."
+
+#~ msgid "File deleted. Please select an OGV video."
+#~ msgstr "Datei gelöscht. Bitte wählen Sie ein OGV-Video."
+
+#~ msgid "Delete OGV video"
+#~ msgstr "OGV-Video löschen"
+
+#~ msgid "Invalid video. Please select a valid WebM video."
+#~ msgstr "Ungültiges Video. Bitte wählen Sie ein gültiges WebM-Video."
+
+#~ msgid "Upload cancelled. Please select a WebM video."
+#~ msgstr "Hochladen abgebrochen. Bitte wählen Sie ein WebM-Video."
+
+#~ msgid "File deleted. Please select a WebM video."
+#~ msgstr "Datei gelöscht. Bitte wählen Sie ein WebM-Video."
+
+#~ msgid "Delete WebM video"
+#~ msgstr "WebM-Video löschen"
+
+#~ msgid "Upgrade Firefox"
+#~ msgstr "Aktualisieren Sie Firefox"
+
+#~ msgid "Your Firefox is out of date and may contain a security risk!"
+#~ msgstr "Ihr Firefox ist nicht aktuell und könnte ein Sicherheitsrisiko darstellen!"
+
+#~ msgid "January"
+#~ msgstr "Januar"
+
+#~ msgid "February"
+#~ msgstr "Februar"
+
+#~ msgid "March"
+#~ msgstr "März"
+
+#~ msgid "April"
+#~ msgstr "April"
+
+#~ msgid "May"
+#~ msgstr "Mai"
+
+#~ msgid "June"
+#~ msgstr "Juni"
+
+#~ msgid "July"
+#~ msgstr "Juli"
+
+#~ msgid "August"
+#~ msgstr "August"
+
+#~ msgid "September"
+#~ msgstr "September"
+
+#~ msgid "October"
+#~ msgstr "Oktober"
+
+#~ msgid "November"
+#~ msgstr "November"
+
+#~ msgid "December"
+#~ msgstr "Dezember"
+
+#~ msgid "Sunday"
+#~ msgstr "Sonntag"
+
+#~ msgid "Monday"
+#~ msgstr "Montag"
+
+#~ msgid "Tuesday"
+#~ msgstr "Dienstag"
+
+#~ msgid "Wednesday"
+#~ msgstr "Mittwoch"
+
+#~ msgid "Thursday"
+#~ msgstr "Donnerstag"
+
+#~ msgid "Friday"
+#~ msgstr "Freitag"
+
+#~ msgid "Saturday"
+#~ msgstr "Samstag"
+
+#~ msgid "Jan"
+#~ msgstr "Jan"
+
+#~ msgid "Feb"
+#~ msgstr "Feb"
+
+#~ msgid "Mar"
+#~ msgstr "Mär"
+
+#~ msgid "Apr"
+#~ msgstr "Apr"
+
+#~ msgid "Jun"
+#~ msgstr "Jun"
+
+#~ msgid "Jul"
+#~ msgstr "Jul"
+
+#~ msgid "Aug"
+#~ msgstr "Aug"
+
+#~ msgid "Sep"
+#~ msgstr "Sep"
+
+#~ msgid "Oct"
+#~ msgstr "Okt"
+
+#~ msgid "Nov"
+#~ msgstr "Nov"
+
+#~ msgid "Dec"
+#~ msgstr "Dez"
+
+#~ msgid "From"
+#~ msgstr "Von"
+
+#~ msgid "To"
+#~ msgstr "Bis"
+
+#~ msgid "Zoom"
+#~ msgstr "Zoom"
+
+#~ msgid "Reset zoom"
+#~ msgstr "Zoom zurücksetzen"
+
+#~ msgid "Reset zoom level 1:1"
+#~ msgstr "Zoomstufe auf 1:1 setzen"
+
+#~ msgid "Error loading chart. (Are you logged in?)"
+#~ msgstr "Fehler beim Laden des Diagramms (Sind Sie angemeldet?)"
+
+#~ msgid "Helpfulness Votes over 1 Month"
+#~ msgstr "Stimmen zur Nützlichkeit über einen Monat"
+
+#~ msgid "Current Percent of Helpfulness"
+#~ msgstr "Aktueller Prozentsatz der Nützlichkeit"
+
+#~ msgid "Percent Change in Helpfulness"
+#~ msgstr "Veränderungen der Nützlichkeit in Prozent"
+
+#~ msgid "Documents"
+#~ msgstr "Dokumente"
+
+#~ msgid "%s Votes"
+#~ msgstr "%s Stimmen"
+
+#~ msgid "CTR %"
+#~ msgstr "Klickrate in %"
+
+#~ msgid "We're open!"
+#~ msgstr "Wir haben geöffnet!"
+
+#~ msgid "Our volunteers are ready to help."
+#~ msgstr "Unsere Freiwilligen sind bereit zu helfen."
+
+#~ msgid "Helpers online: "
+#~ msgstr "Helfer online: "
+
+#~ msgid "Users waiting: "
+#~ msgstr "Wartende Benutzer: "
+
+#~ msgid "Estimated wait: "
+#~ msgstr "Voraussichtliche Wartezeit: "
+
+#~ msgid "Start your Live Chat session."
+#~ msgstr "Starten Sie Ihre Chat-Sitzung."
+
+#~ msgid "The queue is full."
+#~ msgstr "Die Warteschlange ist voll."
+
+#~ msgid "Our volunteers are busy helping other users."
+#~ msgstr "Unsere Freiwilligen sind derzeit ausgelastet mit der Hilfe an anderen Nutzern."
+
+#~ msgid "We're closed."
+#~ msgstr "Wir haben geschlossen."
+
+#~ msgid "Live Chat is currently closed."
+#~ msgstr "Der Chat ist derzeit geschlossen."
+
+#~ msgid "There was an error checking the queue."
+#~ msgstr "Ein Fehler ist bei der Überprüfung der Warteschlange aufgetreten."
+
+#~ msgid "You can try starting a chat session."
+#~ msgstr "Sie können die Chat-Sitzung beginnen."
+
+#~ msgid "Less than 2 minutes."
+#~ msgstr "Weniger als 2 Minuten."
+
+#~ msgid "More than 20 minutes."
+#~ msgstr "Mehr als 20 Minuten."
+
+#~ msgid "Daily Unique Visitors"
+#~ msgstr "Einmalige Besucher pro Tag"
+
+#~ msgid "Query took: "
+#~ msgstr "Anfrage dauerte: "
+
+#~ msgid " seconds"
+#~ msgstr " Sekunden"
+
+#~ msgid "Helpfulness Votes"
+#~ msgstr "Stimmen zur Nützlichkeit"
+
+#~ msgid "Number of Votes"
+#~ msgstr "Anzahl der Stimmen"
+
+#~ msgid "%s%"
+#~ msgstr "%s%"
+
+#~ msgid "Report this post"
+#~ msgstr "Diesen Beitrag melden"
+
+#~ msgid "Toggle L10n"
+#~ msgstr "Übersetzung umschalten"
+
+#~ msgid "Search: "
+#~ msgstr "Suchen:"
+
+#~ msgid "Type here to filter the list of shown responses"
+#~ msgstr "Geben Sie hier Text zum Filtern der Liste der angezeigten Antworten ein"
+
+#~ msgid "Active Support Forum Contributors"
+#~ msgstr "Aktive Mitwirkende des Hilfe-Forums"
+
+#~ msgid "Contributors"
+#~ msgstr "Mitwirkende"
+
+#~ msgid "Report this Article"
+#~ msgstr "Diesen Artikel melden"
+
+#~ msgid "Article Link"
+#~ msgstr "Artikel-Verweis"
+
+#~ msgid "External Link"
+#~ msgstr "Externer Verweis"
+
+#~ msgid "external link"
+#~ msgstr "externer Verweis"
+
+#~ msgid "Invalid video. Please select a valid video file (%s)."
+#~ msgstr "Ungültiges Video. Bitte wählen Sie eine gültige Video-Datei (%s)."
+
+#~ msgid "Upload cancelled. Please select a video file (%s)."
+#~ msgstr "Hochladen abgebrochen. Bitte wählen Sie eine Videodatei. (%s)."
+
+#~ msgid "Delete %s file"
+#~ msgstr "Datei %s löschen"
+
+#~ msgid "There was an error :(."
+#~ msgstr "Ein Fehler ist aufgetreten. :("
