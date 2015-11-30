@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: support.mozilla.com\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-19 13:29-0700\n"
-"PO-Revision-Date: 2015-11-30 12:47+0000\n"
+"PO-Revision-Date: 2015-11-30 14:59+0000\n"
 "Last-Translator: Matjaž Horvat <matjaz.horvat@gmail.com>\n"
 "Language-Team: Slovenian\n"
 "Language: sl\n"
@@ -7192,10 +7192,9 @@ msgstr ""
 "vgraditi v druge spletne strani."
 
 #: kitsune/sumo/db_strings.py:210
-#, fuzzy
 msgctxt "DB: products.Topic.title"
 msgid "Webmaker for Android"
-msgstr "Firefox za Android"
+msgstr "Webmaker za Android"
 
 #: kitsune/sumo/db_strings.py:211
 msgctxt "DB: products.Topic.description"
