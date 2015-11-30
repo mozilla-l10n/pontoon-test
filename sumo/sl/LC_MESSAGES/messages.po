@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: support.mozilla.com\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-19 13:29-0700\n"
-"PO-Revision-Date: 2015-11-30 11:07+0000\n"
+"PO-Revision-Date: 2015-11-30 10:27+0000\n"
 "Last-Translator: Matjaž Horvat <matjaz.horvat@gmail.com>\n"
 "Language-Team: Slovenian\n"
 "Language: sl\n"
@@ -4193,7 +4193,6 @@ msgid "Other"
 msgstr "Drugo"
 
 #: kitsune/questions/config.py:95
-#, fuzzy
 msgid "Firefox for Android"
 msgstr "Firefox za Android"
 
@@ -6403,7 +6402,7 @@ msgstr "Nastavitve za Firefox Sync"
 #: kitsune/sumo/db_strings.py:26
 msgctxt "DB: products.Topic.title"
 msgid "Sync and save"
-msgstr ""
+msgstr "123"
 
 #: kitsune/sumo/db_strings.py:27
 #, fuzzy
