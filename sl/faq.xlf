@@ -15,6 +15,7 @@ lang: en</source>
       </trans-unit>
       <trans-unit id="2">
         <source xml:lang="en-US">ref: faq</source>
+        <target>afsd</target>
       </trans-unit>
       <trans-unit id="3">
         <source xml:lang="en-US">Frequently Asked Questions</source>
