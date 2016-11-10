@@ -18,9 +18,11 @@ lang: en</source>
       </trans-unit>
       <trans-unit id="3">
         <source xml:lang="en-US">Frequently Asked Questions</source>
+        <target>FAQ</target>
       </trans-unit>
       <trans-unit id="4">
         <source xml:lang="en-US">TOC</source>
+        <target>TOC</target>
       </trans-unit>
       <trans-unit id="5">
         <source xml:lang="en-US">{:toc}</source>
