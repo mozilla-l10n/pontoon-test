@@ -27,3 +27,7 @@
 <!ENTITY robots.imgtitle "Frakkin' Toasters">
 <!-- Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him. -->
 <!ENTITY robots.dontpress "Please do not press this button again.">
+
+<!ENTITY a.new.string "This is a new string.">
+<!ENTITY another.one "This is another new string.">
+<!ENTITY and.another.one "And another one.">
