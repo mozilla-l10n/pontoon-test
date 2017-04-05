@@ -30,5 +30,5 @@
 
 <!ENTITY a.new.string "This is a new string.">
 <!ENTITY another.one "This is another new string.">
-<!ENTITY and.another.one "And another one.">
+<!ENTITY and.another.one "And another one. Modify.">
 <!ENTITY yet.another.one "Yet another one.">
