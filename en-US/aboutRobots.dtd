@@ -36,6 +36,6 @@
 <!ENTITY one1 "Yet another one.">
 <!ENTITY two2 "Yet another one.">
 
-<!ENTITY three1 "Yet another one.">
-<!ENTITY three2 "Yet another one.">
-<!ENTITY three3 "Yet another one.">
+<!ENTITY three1 "Yet another one1.">
+<!ENTITY three2 "Yet another one2.">
+<!ENTITY three3 "Yet another one3.">
