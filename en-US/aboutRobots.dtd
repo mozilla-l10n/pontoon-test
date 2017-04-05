@@ -32,3 +32,6 @@
 <!ENTITY another.one "This is another new string.">
 <!ENTITY and.another.one "And another one. Modify.">
 <!ENTITY yet.another.one "Yet another one.">
+
+<!ENTITY one1 "Yet another one.">
+<!ENTITY two2 "Yet another one.">
