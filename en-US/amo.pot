@@ -21,8 +21,8 @@ msgid "Tap to preview"
 msgstr ""
 
 #: src/amo/components/Addon/index.js:170
-msgid "Read %(count)s review"
-msgid_plural "Read all %(count)s reviews"
+msgid "Read %(count)s review-"
+msgid_plural "Read all %(count)s reviews-"
 msgstr[0] ""
 msgstr[1] ""
 
