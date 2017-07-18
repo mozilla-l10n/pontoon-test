@@ -4,14 +4,14 @@ msgstr ""
 "Project-Id-Version: amo\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-07-11 16:49+0000\n"
-"PO-Revision-Date: 2017-07-14 00:22+0000\n"
-"Last-Translator: Tomáš Zelina <zelitomas@gmail.com>\n"
+"PO-Revision-Date: 2017-07-18 09:49+0000\n"
+"Last-Translator: dasda <matjaz.horvat@gmail.com>\n"
 "Language-Team: none\n"
-"Language: cs\n"
+"Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
 "X-Generator: Pontoon\n"
 
 #: src/amo/components/Addon/index.js:129
@@ -28,6 +28,7 @@ msgid_plural "Read all %(count)s reviews"
 msgstr[0] "Přečíst %(count)s recenzi"
 msgstr[1] "Přečíst všechny %(count)s recenze"
 msgstr[2] "Přečtěte si všech %(count)s recenzí"
+msgstr[3] "Přečtěte si všech %(count)s recenzí"
 
 #: src/amo/components/Addon/index.js:186
 msgid "No reviews yet"
@@ -79,6 +80,7 @@ msgid_plural "%(total)s users"
 msgstr[0] "%(total)s uživatel"
 msgstr[1] "%(total)s uživatelé"
 msgstr[2] "%(total)s uživatelů"
+msgstr[3] "%(total)s uživatel"
 
 #: src/amo/components/AddonMeta.js:39
 msgid "%(total)s review"
@@ -86,6 +88,7 @@ msgid_plural "%(total)s reviews"
 msgstr[0] "%(total)s hodnocení"
 msgstr[1] "%(total)s hodnocení"
 msgstr[2] "%(total)s hodnocení"
+msgstr[3] "%(total)s hodnocení"
 
 #: src/amo/components/AddonMeta.js:44
 msgid "No reviews"
@@ -467,6 +470,7 @@ msgid_plural "%(count)s results for \"%(query)s\""
 msgstr[0] "%(count)s výsledek pro \"%(query)s\""
 msgstr[1] "%(count)s výsledky pro dotaz \"%(query)s\""
 msgstr[2] "%(count)s výsledků pro dotaz \"%(query)s\""
+msgstr[3] "%(count)s výsledek pro \"%(query)s\""
 
 #: src/amo/components/SearchContextCard/index.js:38
 msgid "Searching for \"%(query)s\""
@@ -486,6 +490,7 @@ msgid_plural "%(count)s add-ons found"
 msgstr[0] "Nalezen %(count)s doplněk"
 msgstr[1] "Nalezeny %(count)s doplňky"
 msgstr[2] "Nalezeno %(count)s doplňků"
+msgstr[3] "Nalezen %(count)s doplněk"
 
 #: src/amo/components/SearchForm.js:50
 msgid "Search extensions"
