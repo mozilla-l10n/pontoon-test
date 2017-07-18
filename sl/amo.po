@@ -15,6 +15,7 @@ msgstr ""
 "X-Generator: Pontoon\n"
 
 #: src/amo/components/Addon/index.js:129
+#, fuzzy
 msgid "Cancel preview"
 msgstr "Zrušit náhled"
 
