@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 
 #: src/amo/components/Addon/index.js:129
-msgid "Cancel preview"
+msgid "Cancel preview-"
 msgstr ""
 
 #: src/amo/components/Addon/index.js:129
