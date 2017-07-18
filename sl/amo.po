@@ -24,8 +24,9 @@ msgid "Tap to preview"
 msgstr "Pro náhled klepněte"
 
 #: src/amo/components/Addon/index.js:170
-msgid "Read %(count)s review"
-msgid_plural "Read all %(count)s reviews"
+#, fuzzy
+msgid "Read %(count)s review-"
+msgid_plural "Read all %(count)s reviews-"
 msgstr[0] "Přečíst %(count)s recenzi"
 msgstr[1] "Přečíst všechny %(count)s recenze"
 msgstr[2] "Přečtěte si všech %(count)s recenzí"
