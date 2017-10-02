@@ -15,8 +15,8 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Private Browsing)">
 
-<!ENTITY appmenu.tooltip                     "Open menu">
-<!ENTITY navbarOverflow.label                "More tools…">
+<!ENTITY appmenu.tooltip                     "Open \" menu">
+<!ENTITY navbarOverflow.label                "More t\'ools…">
 
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Reload Tab">
