@@ -19,7 +19,7 @@
 <!ENTITY navbarOverflow.label                "More t\'ools…">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "Reload Tab">
+<!ENTITY  reloadTab.label                    "Browse like no one\'s watching">
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "Reload All Tabs">
 <!ENTITY  reloadAllTabs.accesskey            "A">
