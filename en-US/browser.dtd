@@ -20,7 +20,7 @@
 
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Browse like no one\'s watching">
-<!ENTITY  reloadTab.accesskey                "R">
+<!ENTITY  reloadTab.accesskey                "Browse like no one\'s watching">
 <!ENTITY  reloadAllTabs.label                "Reload All Tabs">
 <!ENTITY  reloadAllTabs.accesskey            "A">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
