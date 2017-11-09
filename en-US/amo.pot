@@ -27,7 +27,7 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: src/amo/components/Addon/index.js:186
-msgid "No reviews yet"
+msgid "No reviews yet-"
 msgstr ""
 
 #: src/amo/components/Addon/index.js:195
