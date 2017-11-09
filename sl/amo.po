@@ -39,7 +39,8 @@ msgid "No reviews yet-"
 msgstr "Zatím žádné recenze"
 
 #: src/amo/components/Addon/index.js:195
-msgid "Rate your experience"
+#, fuzzy
+msgid "Rate your experience-"
 msgstr "Ohodnoťte svou zkušenost"
 
 #: src/amo/components/Addon/index.js:229
