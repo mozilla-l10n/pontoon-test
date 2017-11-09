@@ -34,7 +34,8 @@ msgstr[2] "Přečtěte si všech %(count)s recenzí"
 msgstr[3] "Přečtěte si všech %(count)s recenzí"
 
 #: src/amo/components/Addon/index.js:186
-msgid "No reviews yet"
+#, fuzzy
+msgid "No reviews yet-"
 msgstr "Zatím žádné recenze"
 
 #: src/amo/components/Addon/index.js:195
