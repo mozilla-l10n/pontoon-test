@@ -31,7 +31,7 @@ msgid "No reviews yet-"
 msgstr ""
 
 #: src/amo/components/Addon/index.js:195
-msgid "Rate your experience"
+msgid "Rate your experience-"
 msgstr ""
 
 #: src/amo/components/Addon/index.js:229
