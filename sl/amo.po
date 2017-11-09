@@ -21,7 +21,7 @@ msgstr "Zrušit náhled"
 
 #: src/amo/components/Addon/index.js:129
 #, fuzzy
-msgid "Tap to preview"
+msgid "Tap to preview-"
 msgstr "Pro náhled klepněte"
 
 #: src/amo/components/Addon/index.js:170
