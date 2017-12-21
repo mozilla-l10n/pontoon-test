@@ -1,1 +1,24 @@
-{"notificationContent": {"message": "You clicked $URL$.", "placeholders": {"url": {"content": "$1", "example": "https://developer.mozilla.org"}}, "description": "Tells the user which link they clicked."}}
+{
+    "extensionDescription": {
+        "message": "123", 
+        "description": "Description of the extension."
+    }, 
+    "notificationTitle": {
+        "message": "Click notification", 
+        "description": "Title of the click notification."
+    }, 
+    "notificationContent": {
+        "message": "You clicked $URL$.", 
+        "placeholders": {
+            "url": {
+                "content": "$1", 
+                "example": "https://developer.mozilla.org"
+            }
+        }, 
+        "description": "Tells the user which link they clicked."
+    }, 
+    "extensionName": {
+        "message": "Notify link clicks i18n", 
+        "description": "Name of the extension."
+    }
+}
