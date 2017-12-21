@@ -1,0 +1,1 @@
+{"notificationContent": {"message": "You clicked $URL$.", "placeholders": {"url": {"content": "$1", "example": "https://developer.mozilla.org"}}, "description": "Tells the user which link they clicked."}}
