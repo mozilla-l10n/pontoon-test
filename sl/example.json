@@ -4,7 +4,7 @@
         "description": "Name of the extension."
     }, 
     "extensionDescription": {
-        "message": "Prika\u017ei obvestila.", 
+        "message": "Prika\u017ee obvestila, ko uporabink klikne na povezavo.", 
         "description": "Description of the extension."
     }, 
     "notificationTitle": {
