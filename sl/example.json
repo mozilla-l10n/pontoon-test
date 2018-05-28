@@ -1,1 +1,24 @@
-{"extensionName": {"message": "Notify link clicks i18n", "description": "Name of the extension."}, "extensionDescription": {"message": "Prika\u017ei obvestila.", "description": "Description of the extension."}, "notificationTitle": {"message": "Click notification", "description": "Title of the click notification."}, "notificationContent": {"message": "You clicked $URL$.", "description": "Tells the user which link they clicked.", "placeholders": {"url": {"content": "$1", "example": "https://developer.mozilla.org"}}}}
+{
+    "extensionName": {
+        "message": "Notify link clicks i18n", 
+        "description": "Name of the extension."
+    }, 
+    "extensionDescription": {
+        "message": "Prika\u017ei obvestila.", 
+        "description": "Description of the extension."
+    }, 
+    "notificationTitle": {
+        "message": "Click notification", 
+        "description": "Title of the click notification."
+    }, 
+    "notificationContent": {
+        "message": "Kliknili ste $URL$.", 
+        "description": "Tells the user which link they clicked.", 
+        "placeholders": {
+            "url": {
+                "content": "$1", 
+                "example": "https://developer.mozilla.org"
+            }
+        }
+    }
+}
