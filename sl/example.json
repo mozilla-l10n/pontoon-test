@@ -1,10 +1,10 @@
 {
     "extensionName": {
-        "message": "Notify link clicks i18n", 
+        "message": "Obvestila o klikih na povezave", 
         "description": "Name of the extension."
     }, 
     "extensionDescription": {
-        "message": "Prika\u017ee obvestila, ko uporabink klikne na povezavo.", 
+        "message": "Prikaže obvestila, ko uporabink klikne na povezavo.", 
         "description": "Description of the extension."
     }, 
     "notificationTitle": {
