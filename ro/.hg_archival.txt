@@ -1,0 +1,7 @@
+repo: 859025dc6537af30b5d8d7d364d2e775dfd38271
+node: e74bc9cadf7363ab29610f15a1ad0aa06e2434fb
+branch: default
+latesttag: THUNDERBIRD_60_0b6_BUILD1
+latesttag: THUNDERBIRD_60_0b6_RELEASE
+latesttagdistance: 59
+changessincelatesttag: 59
