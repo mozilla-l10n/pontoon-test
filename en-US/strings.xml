@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello!</string>
+    <string name="welcome_messages">You have %d new messages.</string>
+    <string name="star_rating">Check out our 5 stars</string>
+</resources>
