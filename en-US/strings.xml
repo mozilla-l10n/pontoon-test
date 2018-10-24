@@ -3,4 +3,11 @@
     <string name="hello">Hello!</string>
     <string name="welcome_messages">You have %d new messages.</string>
     <string name="star_rating">Check out our 5 stars</string>
+
+    <!-- A comment -->
+    <string name="string-with-comment">A string with a comment</string>
+
+    <!-- First comment -->
+    <!-- Second comment -->
+    <string name="string-with-two-comments">One string with two comments</string>
 </resources>
