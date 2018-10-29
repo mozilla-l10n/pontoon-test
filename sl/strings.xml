@@ -2,5 +2,8 @@
 <resources>
     <string name="hello">Dober dan!2132222</string>
 
+    <!-- A comment -->
+    <string name="string-with-comment">Aha</string>
+
     <!-- First comment -->
     </resources>
