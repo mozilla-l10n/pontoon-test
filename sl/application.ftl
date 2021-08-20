@@ -7,6 +7,7 @@
 ### by setting the preference `devtools-application-enabled` to true.
 
 
+
 ### The correct localization of this file might be to keep it in English, or another
 ### language commonly spoken among web developers. You want to make that choice consistent
 ### across the developer tools. A good criteria is the language in which you'd find the
