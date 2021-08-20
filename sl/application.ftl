@@ -13,7 +13,7 @@
 ### best documentation on web development on the web.
 
 # Header for the list of Service Workers displayed in the application panel for the current page.
-serviceworker-list-header Service Workersk
+serviceworker-list-header Service Workersk 
 
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
