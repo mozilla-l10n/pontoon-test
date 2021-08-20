@@ -48,7 +48,7 @@ redirect_from: "/developer-engagement/"</source>
   </source>
   <target xml:lang="sl"></target>
 </trans-unit>
-<trans-unit id="2"
+<trans-unit id="2">
   <source xml:lang="sl">redirect_from: "/experiments/"</source>
   <target xml:lang="sl"></target>
 </trans-unit>
