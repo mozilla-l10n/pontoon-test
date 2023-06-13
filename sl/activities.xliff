@@ -220,14 +220,17 @@ Web Compatibility, the ability for all Web content to run in all browsers, is im
         <source xml:lang="en-US">{: .clear}
 _</source>
       </trans-unit>
-      <trans-unit id="53">
-        <source xml:lang="en-US">Testing</source>
+      <trans-unit id="53" xml:space="preserve">
+  <source xml:lang="en-US">Testing</source>
+        <target xml:lang="en-US">random</target>
       </trans-unit>
-      <trans-unit id="54">
-        <source xml:lang="en-US">One</source>
+      <trans-unit id="54" xml:space="preserve">
+  <source xml:lang="en-US">One</source>
+        <target xml:lang="en-US">en</target>
       </trans-unit>
-      <trans-unit id="55">
-        <source xml:lang="en-US">Two</source>
+      <trans-unit id="55" xml:space="preserve">
+  <source xml:lang="en-US">Two</source>
+        <target xml:lang="en-US">world</target>
       </trans-unit>
     </body>
   </file>
