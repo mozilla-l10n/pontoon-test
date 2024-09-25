@@ -13,6 +13,11 @@
     "message": "Click notification",
     "description": "Title of the click notification."
   },
+  
+  "newKey": {
+    "message": "New message",
+    "description": "New description."
+  },
 
   "notificationContent": {
     "message": "You clicked $URL$.",
