@@ -1,10 +1,10 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: amo\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-07-11 16:49+0000\n"
-"PO-Revision-Date: 2017-07-18 09:49+0000\n"
+"PO-Revision-Date: 2024-12-18 14:03+0000\n"
 "Last-Translator: dasda <matjaz.horvat@gmail.com>\n"
 "Language-Team: none\n"
 "Language: sl\n"
@@ -83,7 +83,7 @@ msgstr "Váš prohlížeč nepodporuje doplňky. Pro instalaci tohoto doplňku s
 msgid "%(total)s user"
 msgid_plural "%(total)s users"
 msgstr[0] "%(total)s uživatel"
-msgstr[1] "%(total)s uživatelé"
+msgstr[1] ""
 msgstr[2] "%(total)s uživatelů"
 msgstr[3] "%(total)s uživatel"
 
@@ -347,7 +347,7 @@ msgstr "Procházet všechna rozšíření"
 
 #: src/amo/components/Home/index.js:143
 msgid "You can change how Firefox works…"
-msgstr "Můžete změnit, jak Firefox funguje…"
+msgstr ""
 
 #: src/amo/components/Home/index.js:146
 msgid "Install powerful tools that make browsing faster and safer, add-ons make your browser yours."
@@ -359,7 +359,7 @@ msgstr "Procházet všechny motivy"
 
 #: src/amo/components/Home/index.js:162
 msgid "…or what it looks like"
-msgstr "…nebo jak to vypadá"
+msgstr ""
 
 #: src/amo/components/Home/index.js:165
 msgid "Change your browser's appearance. Choose from thousands of themes to give Firefox the look you want."
@@ -519,7 +519,7 @@ msgstr "Náhled motivu není dostupný"
 
 #: src/amo/components/SearchResults.js:41
 msgid "Searching…"
-msgstr "Vyhledávání…"
+msgstr ""
 
 #: src/amo/components/SearchResults.js:47
 msgid "No results were found for \"%(query)s\"."
