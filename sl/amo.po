@@ -83,8 +83,8 @@ msgstr "Váš prohlížeč nepodporuje doplňky. Pro instalaci tohoto doplňku s
 msgid "%(total)s user"
 msgid_plural "%(total)s users"
 msgstr[0] "%(total)s uživatel"
-msgstr[1] ""
-msgstr[2] "%(total)s uživatelů"
+msgstr[1] "%(total)s uživatelé"
+msgstr[2] ""
 msgstr[3] "%(total)s uživatel"
 
 #: src/amo/components/AddonMeta.js:39
