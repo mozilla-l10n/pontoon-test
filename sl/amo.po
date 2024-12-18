@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: amo\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-07-11 16:49+0000\n"
-"PO-Revision-Date: 2024-12-18 15:51+0000\n"
+"PO-Revision-Date: 2024-12-18 19:00+0000\n"
 "Last-Translator: dasda <matjaz.horvat@gmail.com>\n"
 "Language-Team: none\n"
 "Language: sl\n"
@@ -45,7 +45,7 @@ msgstr "Ohodnoťte svou zkušenost"
 
 #: src/amo/components/Addon/index.js:229
 msgid "About this %(addonType)s"
-msgstr "O tomto %(addonType)s"
+msgstr ""
 
 #: src/amo/components/Addon/index.js:280
 msgid "%(addonName)s %(startSpan)sby %(authorList)s%(endSpan)s"
