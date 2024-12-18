@@ -45,7 +45,7 @@ msgstr "Ohodnoťte svou zkušenost"
 
 #: src/amo/components/Addon/index.js:229
 msgid "About this %(addonType)s"
-msgstr ""
+msgstr "O tomto %(addonType)s"
 
 #: src/amo/components/Addon/index.js:280
 msgid "%(addonName)s %(startSpan)sby %(authorList)s%(endSpan)s"
