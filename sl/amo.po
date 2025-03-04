@@ -2,22 +2,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: amo\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-07-11 16:49+0000\n"
-"PO-Revision-Date: 2024-12-18 18:53+0000\n"
-"Last-Translator: Matjaž Horvat <matjaz.horvat@gmail.com>\n"
-"Language-Team: none\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
-"X-Generator: Pontoon\n"
+"Generated-By: Pontoon\n"
 
 #: src/amo/components/Addon/index.js:129
-#, fuzzy
 msgid "Cancel preview-"
-msgstr "Zrušit náhled"
+msgstr "Zrušit náhled1"
 
 #: src/amo/components/Addon/index.js:129
 #, fuzzy
@@ -297,6 +291,7 @@ msgstr "Nahlásit chybu"
 msgid "View classic desktop site"
 msgstr "Zobrazit verzi stránky pro počítač"
 
+# "Firefox" should not be translated. :-)
 #: src/amo/components/Header/index.js:44
 msgid "Firefox Add-ons"
 msgstr "Doplňky pro Firefox"
@@ -672,63 +667,3 @@ msgstr "Nehodnoceno"
 #: src/ui/components/ShowMoreCard/index.js:62
 msgid "<span class=\"visually-hidden\">Expand to</span> Read more"
 msgstr "<span class=\"visually-hidden\">Rozbalit do</span> Přečíst více"
-
-#~ msgid "Browse by category"
-#~ msgstr "Procházet podle kategorie"
-
-#~ msgid "Extensions are special features you can add to Firefox. Themes let you change your browser's appearance."
-#~ msgstr "Rozšíření jsou speciální funkce, které můžete přidat do Firefoxu. Motivy vám dovolí změnit vzhled vašeho prohlížeče."
-
-#~ msgid "Loading..."
-#~ msgstr "Načítání..."
-
-#~ msgid "%(averageRating)s out of 5"
-#~ msgstr "%(averageRating)s z 5"
-
-#~ msgid "Not yet rated"
-#~ msgstr "Zatím nehodnoceno"
-
-#~ msgid "Loading…"
-#~ msgstr "Načítání…"
-
-#~ msgid "Fashionable"
-#~ msgstr "Módně"
-
-#~ msgid "Sentiment"
-#~ msgstr "Sentimentálně"
-
-#~ msgid "Back"
-#~ msgstr "Zpět"
-
-#~ msgid "Submit"
-#~ msgstr "Odeslat"
-
-#~ msgid "Please enter some text"
-#~ msgstr "Zadejte prosím nějaký text"
-
-#~ msgid "screenshot %(imageNumber)s of %(totalImages)s"
-#~ msgstr "snímek obrazovky %(imageNumber)s/%(totalImages)s"
-
-#~ msgid "What do you want Firefox to do?"
-#~ msgstr "Co chcete, aby váš Firefox uměl?"
-
-#~ msgid "Save stuff"
-#~ msgstr "Ukládat věci"
-
-#~ msgid "Share stuff"
-#~ msgstr "Sdílet věci"
-
-#~ msgid "How do you want Firefox to look?"
-#~ msgstr "Jak chcete, aby váš Firefox vypadal?"
-
-#~ msgid "Mystical"
-#~ msgstr "Tajemně"
-
-#~ msgid "Your search for \"%(query)s\" returned %(count)s result."
-#~ msgid_plural "Your search for \"%(query)s\" returned %(count)s results."
-#~ msgstr[0] "Na dotaz \"%(query)s\" byl nalezen %(count)s výsledek."
-#~ msgstr[1] "Na dotaz \"%(query)s\" byly nalezeny %(count)s výsledky."
-#~ msgstr[2] "Na dotaz \"%(query)s\" bylo nalezeno %(count)s výsledků."
-
-#~ msgid "Please supply a valid search"
-#~ msgstr "Zadejte prosím platný vyhledávací dotaz"
