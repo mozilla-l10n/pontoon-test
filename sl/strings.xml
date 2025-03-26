@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+  This Source Code Form is subject to the terms of the Mozilla Public
+  License, v. 2.0. If a copy of the MPL was not distributed with this
+  file, You can obtain one at http://mozilla.org/MPL/2.0/.
+-->
+
 <resources>
-    <string name="hello">PT</string>
+  <string name="hello">PT</string>
+  <string name="welcome_messages">&lt;string name="mozac_feature_downloads_percentage_notification_text"&gt;% 1 $ s completado&lt;/string&gt;</string>
+  <string name="star_rating">&lt;string name="mozac_feature_downloads_percentage_notification_text"&gt;% 1 $ s completado&lt;/string&gt;</string>
+  <string name="escaped_apostrophe">&lt;string name="mozac_feature_downloads_percentage_notification_text"&gt;% 1 $ s completado&lt;/string&gt;</string>
+  <!-- A comment -->
+  <string name="string-with-comment">Aha</string>
+  <!--
+    First comment
 
-    <!-- A comment -->
-    <string name="string-with-comment">Aha</string>
-
-    <!-- First comment -->
-    </resources>
+    Second comment
+  -->
+  <string name="string-with-two-comments">&lt;string name="mozac_feature_downloads_percentage_notification_text"&gt;% 1 $ s completado&lt;/string&gt;</string>
+</resources>
