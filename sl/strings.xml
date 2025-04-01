@@ -9,7 +9,6 @@
 <resources>
   <string name="hello">PT</string>
   <string name="welcome_messages">&lt;string name="mozac_feature_downloads_percentage_notification_text"&gt;% 1 $ s completado&lt;/string&gt;</string>
-  <string name="star_rating">&lt;string name="mozac_feature_downloads_percentage_notification_text"&gt;% 1 $ s completado&lt;/string&gt;</string>
   <string name="escaped_apostrophe">&lt;string name="mozac_feature_downloads_percentage_notification_text"&gt;% 1 $ s completado&lt;/string&gt;</string>
   <!-- A comment -->
   <string name="string-with-comment">Aha</string>
