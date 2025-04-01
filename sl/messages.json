@@ -1,24 +1,18 @@
 {
-    "extensionName": {
-        "message": "Obvestila o klikih na povezave", 
-        "description": "Name of the extension."
-    }, 
-    "extensionDescription": {
-        "message": "Prikaže obvestila, ko uporabink klikne na povezavo.", 
-        "description": "Description of the extension."
-    }, 
-    "notificationTitle": {
-        "message": "Obvestilo o kliku", 
-        "description": "Title of the click notification."
-    }, 
-    "notificationContent": {
-        "message": "Kliknili ste $URL$.", 
-        "description": "Tells the user which link they clicked.", 
-        "placeholders": {
-            "url": {
-                "content": "$1", 
-                "example": "https://developer.mozilla.org"
-            }
-        }
-    }
+  "extensionName": {
+    "message": "Obvestila o klikih na povezave",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Prika\u017ee obvestila, ko uporabink klikne na povezavo.",
+    "description": "Description of the extension."
+  },
+  "notificationTitle": {
+    "message": "Obvestilo o kliku",
+    "description": "Title of the click notification."
+  },
+  "notificationContent": {
+    "message": "Kliknili ste $URL$.",
+    "description": "Tells the user which link they clicked."
+  }
 }
