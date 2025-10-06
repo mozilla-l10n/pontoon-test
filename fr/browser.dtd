@@ -12,7 +12,7 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navigation privée)">
 
-<!ENTITY appmenu.tooltip                     "Open \" menu">
+<!ENTITY appmenu.tooltip                     "Ouvrir le &quot; menu">
 
 <!-- Tab context menu -->
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
@@ -289,6 +289,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
-
-
-
