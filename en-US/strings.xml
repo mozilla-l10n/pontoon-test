@@ -14,4 +14,16 @@
     <!-- First comment -->
     <!-- Second comment -->
     <string name="string-with-two-comments">One string with two comments</string>
+
+    <string-array name="planets">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+    </string-array>
+
+    <plurals name="number_of_songs">
+        <item quantity="one">%d song found.</item>
+        <item quantity="other">%d songs found.</item>
+    </plurals>
 </resources>
