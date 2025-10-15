@@ -9,7 +9,7 @@
 <resources>
   <string name="hello">PT</string>
   <string name="star_rating">Check out our 5 stars</string>
-  <string name="escaped_apostrophe">&lt;string name="mozac_feature_downloads_percentage_notification_text"&gt;% 1 $ s completado&lt;/string&gt;</string>
+  <string name="escaped_apostrophe"><![CDATA[<string name=\"mozac_feature_downloads_percentage_notification_text\">% 1 $ s completado</string>]]></string>
   <!-- A comment -->
   <string name="string-with-comment">Aha</string>
   <!--
@@ -17,15 +17,13 @@
 
     Second comment
   -->
-  <string name="string-with-two-comments">&lt;string name="mozac_feature_downloads_percentage_notification_text"&gt;% 1 $ s completado&lt;/string&gt;</string>
-
+  <string name="string-with-two-comments"><![CDATA[<string name=\"mozac_feature_downloads_percentage_notification_text\">% 1 $ s completado</string>]]></string>
   <string-array name="planets">
     <item>Merkur</item>
     <item>Venera</item>
     <item>Zemlja</item>
     <item>Mars</item>
   </string-array>
-
   <plurals name="number_of_songs">
     <item quantity="one">Najdena je bila %d pesem.</item>
     <item quantity="two">Najdeni %d pesmi.</item>

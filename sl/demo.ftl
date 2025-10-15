@@ -1,5 +1,5 @@
 # Simple string
-title = O lokalizaciji
+title = O lokalizacijid
 # Multiline string: press Shift + Enter to insert new line
 feedbackUninstallCopy =
     Vaše sodelovanje pri Firefox Test Pilots nam veliko
@@ -10,7 +10,7 @@ emailOptInInput =
     .placeholder = tukaj je e-pošta :)
 # Attributes: access keys
 file-menu =
-    .label = Datoteka
+    .label = Datotekaw
     .accesskey = D
 other-file-menu =
     .aria-label = { file-menu.label }
