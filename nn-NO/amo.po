@@ -2,670 +2,650 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: amo\n"
-"Language: nn-NO\n"
+"Language: nn_NO\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=ISO-8859-1\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Pontoon\n"
 
 #: src/amo/components/Addon/index.js:129
 msgid "Cancel preview-"
-msgstr "ZruÅ¡it nÃ¡hled12"
+msgstr "Test"
 
 #: src/amo/components/Addon/index.js:129
-#, fuzzy
 msgid "Tap to preview-"
-msgstr "Pro nÃ¡hled klepnÄte"
+msgstr ""
 
 #: src/amo/components/Addon/index.js:170
-#, fuzzy
 msgid "Read %(count)s review-"
 msgid_plural "Read all %(count)s reviews-"
-msgstr[0] "PÅeÄÃ­st %(count)s recenzi"
-msgstr[1] "PÅeÄÃ­st vÅ¡echny %(count)s recenze"
-msgstr[2] "PÅeÄtÄte si vÅ¡ech %(count)s recenzÃ­"
-msgstr[3] "PÅeÄtÄte si vÅ¡ech %(count)s recenzÃ­"
+msgstr[0] ""
+msgstr[1] ""
 
 #: src/amo/components/Addon/index.js:186
-#, fuzzy
 msgid "No reviews yet-"
-msgstr "ZatÃ­m Å¾Ã¡dnÃ© recenze"
+msgstr ""
 
 #: src/amo/components/Addon/index.js:195
-#, fuzzy
 msgid "Rate your experience-"
-msgstr "OhodnoÅ¥te svou zkuÅ¡enost"
+msgstr ""
 
 #: src/amo/components/Addon/index.js:229
 msgid "About this %(addonType)s"
-msgstr "O tomto %(addonType)s"
+msgstr ""
 
 #: src/amo/components/Addon/index.js:280
 msgid "%(addonName)s %(startSpan)sby %(authorList)s%(endSpan)s"
-msgstr "%(addonName)s %(startSpan)s od %(authorList)s %(endSpan)s"
+msgstr ""
 
 #: src/amo/components/Addon/index.js:324
 msgid "Extension Metadata"
-msgstr "Metadata rozÅ¡Ã­ÅenÃ­"
+msgstr ""
 
 #: src/amo/components/Addon/index.js:343
 msgid "Screenshots"
-msgstr "SnÃ­mky obrazovky"
+msgstr ""
 
 #: src/amo/components/AddonCompatibilityError/index.js:55
 msgid "You need to <a href=\"%(downloadUrl)s\">download Firefox</a> to install this add-on."
-msgstr "Abyste mohli nainstalovat tento doplnÄk, musÃ­te si <a href=\"%(downloadUrl)s\">stÃ¡hnout Firefox</a>."
+msgstr ""
 
 #: src/amo/components/AddonCompatibilityError/index.js:59
 msgid "Your version of Firefox does not support search plugins."
-msgstr "VaÅ¡e verze Firefoxu nepodporuje vyhledÃ¡vacÃ­ moduly."
+msgstr ""
 
 #: src/amo/components/AddonCompatibilityError/index.js:62
 msgid "Firefox for iOS does not currently support add-ons."
-msgstr "Firefox pro iOS zatÃ­m nepodporuje doplÅky."
+msgstr ""
 
 #: src/amo/components/AddonCompatibilityError/index.js:65
 msgid "This add-on requires a <a href=\"%(downloadUrl)s\">newer version of Firefox</a> (at least version %(minVersion)s). You are using Firefox %(yourVersion)s."
-msgstr "Tento doplnÄk vyÅ¾aduje <a href=\"%(downloadUrl)s\">novÄjÅ¡Ã­ verzi Firefoxu</a> (alespoÅ %(minVersion)s). VaÅ¡e verze je %(yourVersion)s."
+msgstr ""
 
 #: src/amo/components/AddonCompatibilityError/index.js:79
 msgid "Your browser does not support add-ons. You can <a href=\"%(downloadUrl)s\">download Firefox</a> to install this add-on."
-msgstr "VÃ¡Å¡ prohlÃ­Å¾eÄ nepodporuje doplÅky. Pro instalaci tohoto doplÅku si mÅ¯Å¾ete <a href=\"%(downloadUrl)s\">stÃ¡hnout Firefox</a>."
+msgstr ""
 
 #: src/amo/components/AddonMeta.js:27 src/amo/components/SearchResult/index.js:88
 msgid "%(total)s user"
 msgid_plural "%(total)s users"
-msgstr[0] "%(total)s uÅ¾ivatel"
-msgstr[1] "%(total)s uÅ¾ivatelÃ©"
-msgstr[2] "%(total)s uÅ¾ivatelÅ¯"
-msgstr[3] "%(total)s uÅ¾ivatel"
+msgstr[0] ""
+msgstr[1] ""
 
 #: src/amo/components/AddonMeta.js:39
 msgid "%(total)s review"
 msgid_plural "%(total)s reviews"
-msgstr[0] "%(total)s hodnocenÃ­"
-msgstr[1] "%(total)s hodnocenÃ­"
-msgstr[2] "%(total)s hodnocenÃ­"
-msgstr[3] "%(total)s hodnocenÃ­"
+msgstr[0] ""
+msgstr[1] ""
 
 #: src/amo/components/AddonMeta.js:44
 msgid "No reviews"
-msgstr "Å½Ã¡dnÃ¡ hodnocenÃ­"
+msgstr ""
 
 #: src/amo/components/AddonMeta.js:50
 msgid "Used by"
-msgstr "PouÅ¾Ã­vÃ¡"
+msgstr ""
 
 #: src/amo/components/AddonMoreInfo.js:106
 msgid "Read the license agreement for this add-on"
-msgstr "PÅeÄtÄte si licenÄnÃ­ smlouvu pro tento doplnÄk"
+msgstr ""
 
 #: src/amo/components/AddonMoreInfo.js:26
 msgid "Homepage"
-msgstr "DomovskÃ¡ strÃ¡nka"
+msgstr ""
 
 #: src/amo/components/AddonMoreInfo.js:34
 msgid "Support Site"
-msgstr "StrÃ¡nka podpory"
+msgstr ""
 
 #: src/amo/components/AddonMoreInfo.js:40
 msgid "More information"
-msgstr "VÃ­ce informacÃ­"
+msgstr ""
 
 #: src/amo/components/AddonMoreInfo.js:44
 msgid "Add-on Links"
-msgstr "Odkazy pro doplnÄk"
+msgstr ""
 
 #: src/amo/components/AddonMoreInfo.js:55
 msgid "Version"
-msgstr "Verze"
+msgstr ""
 
 #: src/amo/components/AddonMoreInfo.js:59
 msgid "Last updated"
-msgstr "PoslednÃ­ aktualizace"
+msgstr ""
 
 #: src/amo/components/AddonMoreInfo.js:64
 msgid "%(timeFromNow)s (%(date)s)"
-msgstr "%(timeFromNow)s (%(date)s)"
+msgstr ""
 
 #: src/amo/components/AddonMoreInfo.js:72
 msgid "License"
-msgstr "Licence"
+msgstr ""
 
 #: src/amo/components/AddonMoreInfo.js:85
 msgid "Privacy Policy"
-msgstr "ZÃ¡sady ochrany soukromÃ­"
+msgstr ""
 
 #: src/amo/components/AddonMoreInfo.js:93
 msgid "Read the privacy policy for this add-on"
-msgstr "PÅeÄtÄte si zÃ¡sady ochrany soukromÃ­ tohoto doplÅku"
+msgstr ""
 
 #: src/amo/components/AddonMoreInfo.js:98
 msgid "End-User License Agreement"
-msgstr "LicenÄnÃ­ smlouva s koncovÃ½m uÅ¾ivatelem"
+msgstr ""
 
 #: src/amo/components/AddonReview.js:145
 msgid "Tell the world why you think this extension is fantastic!"
-msgstr "ÅeknÄte celÃ©mu svÄtu, proÄ si myslÃ­te, Å¾e je tenhle doplnÄk ÃºÅ¾asnÃ½!"
+msgstr ""
 
 #: src/amo/components/AddonReview.js:148
 msgid "Tell us what you love about this extension. Be specific and concise."
-msgstr "ÅeknÄte nÃ¡m, co se vÃ¡m na tomto doplÅku lÃ­bÃ­. BuÄte konkrÃ©tnÃ­ a svÄdomitÃ­."
+msgstr ""
 
 #: src/amo/components/AddonReview.js:152
 msgid "Tell the world about this extension."
-msgstr "ÅeknÄte svÄtu o tomto rozÅ¡Ã­ÅenÃ­."
+msgstr ""
 
 #: src/amo/components/AddonReview.js:153
 msgid "Tell us about your experience with this extension. Be specific and concise."
-msgstr "ÅeknÄte nÃ¡m, co si myslÃ­te o tomto doplÅku. BuÄte konkrÃ©tnÃ­ a svÄdomitÃ­."
+msgstr ""
 
 #: src/amo/components/AddonReview.js:161
 msgid "Write a review"
-msgstr "Napsat recenzi"
+msgstr ""
 
 #: src/amo/components/AddonReview.js:167
 msgid "Review text"
-msgstr "Text recenze"
+msgstr ""
 
 #: src/amo/components/AddonReview.js:182
 msgid "Submit review"
-msgstr "PÅidat recenzi"
+msgstr ""
 
 #: src/amo/components/AddonReviewList.js:119
 msgid "from %(authorName)s, %(timestamp)s"
-msgstr "od uÅ¾ivatele %(authorName)s, %(timestamp)s"
+msgstr ""
 
 #: src/amo/components/AddonReviewList.js:158
 msgid "Add-on icon"
-msgstr "Ikona doplÅku"
+msgstr ""
 
 #: src/amo/components/AddonReviewList.js:164
 msgid "Reviews for %(addonName)s"
-msgstr "Recenze doplÅku %(addonName)s"
+msgstr ""
 
 #: src/amo/components/AddonReviewList.js:185
 msgid "All written reviews"
-msgstr "VÅ¡echny napsanÃ© recenze"
+msgstr ""
 
 #: src/amo/components/App/index.js:200
 msgid "Add-ons for Firefox"
-msgstr "DoplÅky pro Firefox"
+msgstr ""
 
 #: src/amo/components/Categories.js:57 src/amo/components/CategoriesHeader/index.js:47
 msgid "Failed to load categories."
-msgstr "NaÄÃ­tÃ¡nÃ­ kategoriÃ­ selhalo.2"
+msgstr ""
 
 #: src/amo/components/Categories.js:65 src/amo/components/CategoriesHeader/index.js:55
 msgid "No categories found."
-msgstr "Å½Ã¡dnÃ© kategorie nebyly nalezeny."
+msgstr ""
 
 #: src/amo/components/Categories.js:74 src/amo/components/CategoriesHeader/index.js:65
 msgid "Loading categories."
-msgstr "NaÄÃ­tÃ¡nÃ­ kategoriÃ­."
+msgstr ""
 
 #: src/amo/components/CategoriesHeader/index.js:61
 msgid "Categories"
-msgstr "Kategorie"
+msgstr ""
 
 #: src/amo/components/CategoryHeader/index.js:34
 msgid "Browse all add-ons in this category."
-msgstr "ProchÃ¡zet vÅ¡echny doplÅky v tÃ©to kategorii."
+msgstr ""
 
 #: src/amo/components/CategoryHeader/index.js:38
 msgid "Browse all extensions in this category."
-msgstr "ProchÃ¡zet vÅ¡echna rozÅ¡Ã­ÅenÃ­ v tÃ©to kategorii."
+msgstr ""
 
 #: src/amo/components/CategoryHeader/index.js:43
 msgid "Browse all themes in this category."
-msgstr "ProchÃ¡zet vÅ¡echny motivy v tÃ©to kategorii."
+msgstr ""
 
 #: src/amo/components/ErrorPage/NotAuthorized/index.js:22
 msgid "If you are signed in and think this message is an error, please <a href=\"%(url)s\">file an issue</a>. Tell us where you came from and what you were trying to access, and we'll fix the issue."
 msgstr ""
-"Pokud jste pÅihlÃ¡Å¡eni a myslÃ­te si, Å¾e tato zprÃ¡va je chybou, <a href=\"%(url)s\">nahlaste nÃ¡m ji prosÃ­m</a>. SdÄlte nÃ¡m, odkud jste pÅiÅ¡li a kam jste se chtÄli dostat, a my se "
-"postarÃ¡me o nÃ¡pravu."
 
 #: src/amo/components/ErrorPage/NotAuthorized/index.js:35
 msgid "Not Authorized"
-msgstr "NeautorizovÃ¡no"
+msgstr ""
 
 #: src/amo/components/ErrorPage/NotAuthorized/index.js:38
 msgid "Sorry, but you aren't authorized to access this page. If you aren't signed in, try signing in using the link at the top of the page."
-msgstr "OmlouvÃ¡me se, ale k tÃ©to strÃ¡nce nemÃ¡te pÅÃ­stup. Pokud nejste pÅihlÃ¡Å¡eni, zkuste se pÅihlÃ¡sit pomocÃ­ odkazu v hornÃ­ ÄÃ¡sti strÃ¡nky."
+msgstr ""
 
 #: src/amo/components/ErrorPage/NotFound/index.js:22
 msgid "If you followed a link from somewhere, please <a href=\"%(url)s\">file an issue</a>. Tell us where you came from and what you were looking for, and we'll do our best to fix it."
 msgstr ""
-"Pokud jste se sem dostali pomocÃ­ nÄkterÃ©ho z odkazÅ¯, <a href=\"%(url)s\">nahlaste nÃ¡m prosÃ­m chybu</a>. SdÄlte nÃ¡m, odkud jste pÅiÅ¡li a co jste hledali, a my udÄlÃ¡me vÅ¡e proto, abychom "
-"to napravili."
 
 #: src/amo/components/ErrorPage/NotFound/index.js:34 src/core/components/ErrorPage/NotFound/index.js:25
 msgid "Page not found"
-msgstr "StrÃ¡nka nenalezena"
+msgstr ""
 
 #: src/amo/components/ErrorPage/NotFound/index.js:37
 msgid "Sorry, but we can't find anything at the address you entered. If you followed a link to an add-on, it's possible that add-on has been removed by its author."
-msgstr "OmlouvÃ¡me se, ale na adrese, kterou jste zadali, nemÅ¯Å¾eme nic najÃ­t. Pokud jste klepli na odkaz na doplnÄk, je moÅ¾nÃ©, Å¾e byl odebrÃ¡n jeho autorem."
+msgstr ""
 
 #: src/amo/components/ErrorPage/ServerError/index.js:22
 msgid ""
 "If you have additional information that would help us you can <a href=\"https://github.com/mozilla/addons-frontend/issues/new/\">file an issue</a>. Tell us what steps you took that lead to the error"
 " and we'll do our best to fix it."
 msgstr ""
-"Pokud mÃ¡te dalÅ¡Ã­ informace, kterÃ© by nÃ¡m mohly pomoci, mÅ¯Å¾ete <a href=\"https://github.com/mozilla/addons-frontend/issues/new/\">nahlÃ¡sit problÃ©m</a>. SdÄlte nÃ¡m, jakÃ© kroky vÃ¡s vedly k"
-" tÃ©to chybÄ, a my udÄlÃ¡me vÅ¡e pro to, abychom ji opravili."
 
 #: src/amo/components/ErrorPage/ServerError/index.js:33 src/core/components/ErrorPage/GenericError/index.js:25
 msgid "Server Error"
-msgstr "Chyba serveru"
+msgstr ""
 
 #: src/amo/components/ErrorPage/ServerError/index.js:36
 msgid "Sorry, but there was an error with our server and we couldn't complete your request. We have logged this error and will investigate it."
-msgstr "OmlouvÃ¡me se, ale na naÅ¡em serveru doÅ¡lo k chybÄ, kvÅ¯li kterÃ© jsme nemohli dokonÄit vÃ¡Å¡ poÅ¾adavek. Chyba byla zaznamenÃ¡na a budeme se jÃ­ co nejdÅÃ­ve vÄnovat."
+msgstr ""
 
 #: src/amo/components/FeaturedAddons/index.js:33
 msgid "More Featured Extensions"
-msgstr "VÃ­ce doporuÄenÃ½ch rozÅ¡Ã­ÅenÃ­"
+msgstr ""
 
 #: src/amo/components/FeaturedAddons/index.js:35
 msgid "More Featured Themes"
-msgstr "VÃ­ce doporuÄenÃ½ch motivÅ¯"
+msgstr ""
 
 #: src/amo/components/Footer/index.js:21
 msgid "Go to Mozilla's homepage"
-msgstr "PÅejÃ­t na domovskou strÃ¡nku Mozilly"
+msgstr ""
 
 #: src/amo/components/Footer/index.js:36
 msgid "Privacy policy"
-msgstr "ZÃ¡sady ochrany soukromÃ­"
+msgstr ""
 
 #: src/amo/components/Footer/index.js:44
 msgid "Legal notices"
-msgstr "PrÃ¡vnÃ­ informace"
+msgstr ""
 
 #: src/amo/components/Footer/index.js:52
 msgid "Report a bug"
-msgstr "NahlÃ¡sit chybu"
+msgstr ""
 
 #: src/amo/components/Footer/index.js:62
 msgid "View classic desktop site"
-msgstr "Zobrazit verzi strÃ¡nky pro poÄÃ­taÄ"
+msgstr ""
 
 # "Firefox" should not be translated. :-)
 #: src/amo/components/Header/index.js:44
 msgid "Firefox Add-ons"
-msgstr "DoplÅky pro Firefox"
+msgstr ""
 
 #: src/amo/components/Header/index.js:59
 msgid "Developer Hub"
-msgstr "Pro vÃ½vojÃ¡Åe"
+msgstr ""
 
 #: src/amo/components/Home/index.js:100 src/amo/components/Home/index.js:75
 msgid "Shop online"
-msgstr "Nakupovat online"
+msgstr ""
 
 #: src/amo/components/Home/index.js:103 src/amo/components/Home/index.js:78
 msgid "Be social"
-msgstr "BÃ½t spoleÄenskÃ½"
+msgstr ""
 
 #: src/amo/components/Home/index.js:106 src/amo/components/Home/index.js:81
 msgid "Play games"
-msgstr "Hrajte hry"
+msgstr ""
 
 #: src/amo/components/Home/index.js:120
 msgid "Wild"
-msgstr "Divoce"
+msgstr ""
 
 #: src/amo/components/Home/index.js:121
 msgid "Abstract"
-msgstr "AbstraktnÄ"
+msgstr ""
 
 #: src/amo/components/Home/index.js:122
 msgid "Holiday"
-msgstr "SvÃ¡teÄnÄ"
+msgstr ""
 
 #: src/amo/components/Home/index.js:123
 msgid "Scenic"
-msgstr "MalebnÄ"
+msgstr ""
 
 #: src/amo/components/Home/index.js:124
 msgid "Sporty"
-msgstr "SportovnÄ"
+msgstr ""
 
 #: src/amo/components/Home/index.js:125
 msgid "Solid"
-msgstr "JednoduÅ¡e"
+msgstr ""
 
 #: src/amo/components/Home/index.js:138 src/amo/components/SuggestedPages/index.js:26
 msgid "Browse all extensions"
-msgstr "ProchÃ¡zet vÅ¡echna rozÅ¡Ã­ÅenÃ­"
+msgstr ""
 
 #: src/amo/components/Home/index.js:143
-msgid "You can change how Firefox works…"
+msgid "You can change how Firefox worksâ¦"
 msgstr ""
 
 #: src/amo/components/Home/index.js:146
 msgid "Install powerful tools that make browsing faster and safer, add-ons make your browser yours."
-msgstr "Nainstalujte si mocnÃ© nÃ¡stroje, se kterÃ½mi bude prohlÃ­Å¾enÃ­ rychlejÅ¡Ã­ a bezpeÄnÄjÅ¡Ã­. S doplÅky je vÃ¡Å¡ prohlÃ­Å¾eÄ skuteÄnÄ vÃ¡Å¡."
+msgstr ""
 
 #: src/amo/components/Home/index.js:157 src/amo/components/SuggestedPages/index.js:31
 msgid "Browse all themes"
-msgstr "ProchÃ¡zet vÅ¡echny motivy"
+msgstr ""
 
 #: src/amo/components/Home/index.js:162
-msgid "…or what it looks like"
+msgid "â¦or what it looks like"
 msgstr ""
 
 #: src/amo/components/Home/index.js:165
 msgid "Change your browser's appearance. Choose from thousands of themes to give Firefox the look you want."
-msgstr "ZmÄÅte vzhled svÃ©ho prohlÃ­Å¾eÄe. Vyberte si z tisÃ­cÅ¯ motivÅ¯ a pÅizpÅ¯sobte si svÅ¯j Firefox."
+msgstr ""
 
 #: src/amo/components/Home/index.js:66 src/amo/components/Home/index.js:91
 msgid "Block ads"
-msgstr "Blokovat reklamy"
+msgstr ""
 
 #: src/amo/components/Home/index.js:69 src/amo/components/Home/index.js:94
 msgid "Screenshot"
-msgstr "SnÃ­mek obrazovky"
+msgstr ""
 
 #: src/amo/components/Home/index.js:72 src/amo/components/Home/index.js:97
 msgid "Find news"
-msgstr "Hledejte zprÃ¡vy"
+msgstr ""
 
 #: src/amo/components/LandingPage/index.js:102
 msgid "More popular extensions"
-msgstr "VÃ­ce populÃ¡rnÃ­ch rozÅ¡Ã­ÅenÃ­"
+msgstr ""
 
 #: src/amo/components/LandingPage/index.js:103
 msgid "Top rated extensions"
-msgstr "NejlÃ©pe hodnocenÃ¡ rozÅ¡Ã­ÅenÃ­"
+msgstr ""
 
 #: src/amo/components/LandingPage/index.js:111
 msgid "More highly rated extensions"
-msgstr "VÃ­ce kladnÄ hodnocenÃ½ch rozÅ¡Ã­ÅenÃ­"
+msgstr ""
 
 #: src/amo/components/LandingPage/index.js:114
 msgid "Featured themes"
-msgstr "DoporuÄenÃ© motivy vzhledu"
+msgstr ""
 
 #: src/amo/components/LandingPage/index.js:118
 msgid "More featured themes"
-msgstr "VÃ­ce doporuÄenÃ½ch motivÅ¯"
+msgstr ""
 
 #: src/amo/components/LandingPage/index.js:119
 msgid "Most popular themes"
-msgstr "NejpopulÃ¡rnÄjÅ¡Ã­ motivy"
+msgstr ""
 
 #: src/amo/components/LandingPage/index.js:124
 msgid "More popular themes"
-msgstr "VÃ­ce populÃ¡rnÃ­ch motivÅ¯"
+msgstr ""
 
 #: src/amo/components/LandingPage/index.js:125
 msgid "Top rated themes"
-msgstr "NejlÃ©pe hodnocenÃ© motivy"
+msgstr ""
 
 #: src/amo/components/LandingPage/index.js:130
 msgid "More highly rated themes"
-msgstr "VÃ­ce kladnÄ hodnocenÃ½ch motivÅ¯"
+msgstr ""
 
 #: src/amo/components/LandingPage/index.js:177 src/amo/components/SectionLinks/index.js:60
 msgid "Themes"
-msgstr "Motivy"
+msgstr ""
 
 #: src/amo/components/LandingPage/index.js:178 src/amo/components/SectionLinks/index.js:50
 msgid "Extensions"
-msgstr "RozÅ¡Ã­ÅenÃ­"
+msgstr ""
 
 #: src/amo/components/LandingPage/index.js:209
 msgid "Explore all categories"
-msgstr "ProchÃ¡zet vÅ¡echny kategorie"
+msgstr ""
 
 #: src/amo/components/LandingPage/index.js:92
 msgid "Featured extensions"
-msgstr "DoporuÄenÃ¡ rozÅ¡Ã­ÅenÃ­"
+msgstr ""
 
 #: src/amo/components/LandingPage/index.js:96
 msgid "More featured extensions"
-msgstr "VÃ­ce doporuÄenÃ½ch rozÅ¡Ã­ÅenÃ­"
+msgstr ""
 
 #: src/amo/components/LandingPage/index.js:97
 msgid "Most popular extensions"
-msgstr "NejpopulÃ¡rnÄjÅ¡Ã­ rozÅ¡Ã­ÅenÃ­"
+msgstr ""
 
 #: src/amo/components/LanguagePicker.js:50
 msgid "Browse in your language"
-msgstr "ProchÃ¡zet ve vaÅ¡em jazyce"
+msgstr ""
 
 #: src/amo/components/RatingManager/index.js:125
 msgid "Log in to rate this dictionary"
-msgstr "Pro hodnocenÃ­ tohoto slovnÃ­ku se pÅihlaste"
+msgstr ""
 
 #: src/amo/components/RatingManager/index.js:127
 msgid "Log in to rate this language pack"
-msgstr "Pro hodnocenÃ­ tohoto jazykovÃ©ho balÃ­Äku se pÅihlaste"
+msgstr ""
 
 #: src/amo/components/RatingManager/index.js:129
 msgid "Log in to rate this search plugin"
-msgstr "Pro hodnocenÃ­ tohoto vyhledÃ¡vacÃ­ho modulu se pÅihlaste"
+msgstr ""
 
 #: src/amo/components/RatingManager/index.js:131
 msgid "Log in to rate this theme"
-msgstr "Pro hodnocenÃ­ tohoto motivu se pÅihlaste"
+msgstr ""
 
 #: src/amo/components/RatingManager/index.js:133
 msgid "Log in to rate this extension"
-msgstr "Pro hodnocenÃ­ tohoto rozÅ¡Ã­ÅenÃ­ se pÅihlaste"
+msgstr ""
 
 #: src/amo/components/RatingManager/index.js:139
 msgid "Log in to rate this add-on"
-msgstr "Pro hodnocenÃ­ tohoto doplÅku se pÅihlaste"
+msgstr ""
 
 #: src/amo/components/RatingManager/index.js:163
 msgid "How are you enjoying your experience with %(addonName)s?"
-msgstr "Jak si uÅ¾Ã­vÃ¡te pouÅ¾Ã­vÃ¡nÃ­ doplÅku %(addonName)s?"
+msgstr ""
 
 #: src/amo/components/SearchContextCard/index.js:32
 msgid "%(count)s result for \"%(query)s\""
 msgid_plural "%(count)s results for \"%(query)s\""
-msgstr[0] "%(count)s vÃ½sledek pro \"%(query)s\""
-msgstr[1] "%(count)s vÃ½sledky pro dotaz \"%(query)s\""
-msgstr[2] "%(count)s vÃ½sledkÅ¯ pro dotaz \"%(query)s\""
-msgstr[3] "%(count)s vÃ½sledek pro \"%(query)s\""
+msgstr[0] ""
+msgstr[1] ""
 
 #: src/amo/components/SearchContextCard/index.js:38
 msgid "Searching for \"%(query)s\""
-msgstr "HledÃ¡nÃ­ \"%(query)s\""
+msgstr ""
 
 #: src/amo/components/SearchContextCard/index.js:41
 msgid "Loading add-ons"
-msgstr "NaÄÃ­tÃ¡nÃ­ doplÅkÅ¯"
+msgstr ""
 
 #: src/amo/components/SearchContextCard/index.js:43
 msgid "No add-ons found"
-msgstr "Nebyly nalezeny Å¾Ã¡dnÃ© doplÅky"
+msgstr ""
 
 #: src/amo/components/SearchContextCard/index.js:45
 msgid "%(count)s add-on found"
 msgid_plural "%(count)s add-ons found"
-msgstr[0] "Nalezen %(count)s doplnÄk"
-msgstr[1] "Nalezeny %(count)s doplÅky"
-msgstr[2] "Nalezeno %(count)s doplÅkÅ¯"
-msgstr[3] "Nalezen %(count)s doplnÄk"
+msgstr[0] ""
+msgstr[1] ""
 
 #: src/amo/components/SearchForm.js:50
 msgid "Search extensions"
-msgstr "Hledat rozÅ¡Ã­ÅenÃ­"
+msgstr ""
 
 #: src/amo/components/SearchForm.js:52
 msgid "Search themes"
-msgstr "Hledat motivy"
+msgstr ""
 
 #: src/amo/components/SearchForm.js:54
 msgid "Search extensions and themes"
-msgstr "ProhledÃ¡vejte rozÅ¡Ã­ÅenÃ­ a motivy"
+msgstr ""
 
 #: src/amo/components/SearchForm.js:69 src/amo/components/SearchForm.js:86
 msgid "Search"
-msgstr "Hledat"
+msgstr ""
 
 #: src/amo/components/SearchResult/index.js:57
 msgid "No theme preview available"
-msgstr "NÃ¡hled motivu nenÃ­ dostupnÃ½"
+msgstr ""
 
 #: src/amo/components/SearchResults.js:41
-msgid "Searching…"
+msgid "Searchingâ¦"
 msgstr ""
 
 #: src/amo/components/SearchResults.js:47
 msgid "No results were found for \"%(query)s\"."
-msgstr "Na dotaz \"%(query)s\" nebyly nalezeny Å¾Ã¡dnÃ© vÃ½sledky."
+msgstr ""
 
 #: src/amo/components/SearchResults.js:51
 msgid "No results were found."
-msgstr "Nebyly nalezeny Å¾Ã¡dnÃ© vÃ½sledky."
+msgstr ""
 
 #: src/amo/components/SearchResults.js:54
 msgid "Please enter a search term to search Firefox Add-ons."
-msgstr "VloÅ¾te prosÃ­m vyhledÃ¡vacÃ­ dotaz pro hledÃ¡nÃ­ na serveru DoplÅky pro Firefox."
+msgstr ""
 
 #: src/amo/components/SearchResults.js:63
 msgid "Search results"
-msgstr "VÃ½sledky vyhledÃ¡vÃ¡nÃ­"
+msgstr ""
 
 #: src/amo/components/SearchSort/index.js:41
 msgid "Recently Updated"
-msgstr "NedÃ¡vno aktualizovanÃ©"
+msgstr ""
 
 #: src/amo/components/SearchSort/index.js:42
 msgid "Relevance"
-msgstr "Relevance"
+msgstr ""
 
 #: src/amo/components/SearchSort/index.js:43
 msgid "Most Users"
-msgstr "NejvÃ­ce uÅ¾ivatelÅ¯"
+msgstr ""
 
 #: src/amo/components/SearchSort/index.js:44
 msgid "Top Rated"
-msgstr "NejlÃ©pe hodnocenÃ©"
+msgstr ""
 
 #: src/amo/components/SearchSort/index.js:66 src/amo/components/SearchSort/index.js:74
 msgid "Sort"
-msgstr "ÅazenÃ­"
+msgstr ""
 
 #: src/amo/components/SectionLinks/index.js:40
 msgid "Explore"
-msgstr "Prozkoumat"
+msgstr ""
 
 #: src/amo/components/SuggestedPages/index.js:21
 msgid "Suggested Pages"
-msgstr "DoporuÄenÃ© strÃ¡nky"
+msgstr ""
 
 #: src/amo/components/SuggestedPages/index.js:36
 msgid "Add-ons Home Page"
-msgstr "DomovskÃ¡ strÃ¡nka"
+msgstr ""
 
 #: src/core/components/AuthenticateButton/index.js:61
 msgid "Log out"
-msgstr "OdhlÃ¡sit se"
+msgstr ""
 
 #: src/core/components/AuthenticateButton/index.js:62
 msgid "Log in/Sign up"
-msgstr "PÅihlÃ¡sit se / Zaregistrovat se"
+msgstr ""
 
 #: src/core/components/ErrorPage/GenericError/index.js:28
 msgid "Sorry, but there was an error and we couldn't complete your request. We have logged this error and will investigate it."
-msgstr "OmlouvÃ¡me se, ale doÅ¡lo k chybÄ, kvÅ¯li kterÃ© jsme nemohli dokonÄit vÃ¡Å¡ poÅ¾adavek. Chyba byla zaznamenÃ¡na a budeme se jÃ­ co nejdÅÃ­ve vÄnovat."
+msgstr ""
 
 #: src/core/components/ErrorPage/GenericError/index.js:34 src/core/components/ErrorPage/NotFound/index.js:31
 msgid "Error code: %(status)s."
-msgstr "ChybovÃ½ kÃ³d: %(status)s."
+msgstr ""
 
 #: src/core/components/ErrorPage/NotFound/index.js:27
 msgid "Sorry, but we can't find anything at the URL you entered."
-msgstr "OmlouvÃ¡me se, ale na zadanÃ© adrese nemÅ¯Å¾eme nic najÃ­t."
+msgstr ""
 
 #: src/core/components/InstallButton/index.js:107 src/core/components/InstallButton/index.js:125
 msgid "Add to Firefox"
-msgstr "PÅidat do Firefoxu"
+msgstr ""
 
 #: src/core/components/InstallButton/index.js:85
 msgid "Install Theme"
-msgstr "Nainstalovat motiv"
+msgstr ""
 
 #: src/core/components/InstallSwitch/index.js:55
 msgid "Downloading %(name)s."
-msgstr "StahovÃ¡nÃ­ doplÅku %(name)s."
+msgstr ""
 
 #: src/core/components/InstallSwitch/index.js:58
 msgid "Installing %(name)s."
-msgstr "Instalace doplÅku %(name)s."
+msgstr ""
 
 #: src/core/components/InstallSwitch/index.js:62
 msgid "%(name)s is installed and enabled. Click to uninstall."
-msgstr "DoplnÄk %(name)s je nainstalovÃ¡n a povolen. KlepnÄte pro odinstalaci."
+msgstr ""
 
 #: src/core/components/InstallSwitch/index.js:65
 msgid "%(name)s is disabled. Click to enable."
-msgstr "DoplnÄk %(name)s je zakÃ¡zÃ¡n. KlepnÄte pro povolenÃ­."
+msgstr ""
 
 #: src/core/components/InstallSwitch/index.js:68
 msgid "Uninstalling %(name)s."
-msgstr "Odinstalace doplÅku %(name)s."
+msgstr ""
 
 #: src/core/components/InstallSwitch/index.js:71
 msgid "%(name)s is uninstalled. Click to install."
-msgstr "DoplnÄk %(name)s byl odinstalovÃ¡n. KlepnÄte pro instalaci."
+msgstr ""
 
 #: src/core/components/InstallSwitch/index.js:74
 msgid "Install state for %(name)s is unknown."
-msgstr "Stav instalace doplÅku %(name)s nenÃ­ znÃ¡mÃ½."
+msgstr ""
 
 #: src/core/components/Paginate/index.js:100
 msgid "Page %(currentPage)s of %(totalPages)s"
-msgstr "StrÃ¡nka %(currentPage)s z %(totalPages)s"
+msgstr ""
 
 #: src/core/components/Paginate/index.js:109
 msgid "Previous"
-msgstr "PÅedchozÃ­"
+msgstr ""
 
 #: src/core/components/Paginate/index.js:122
 msgid "Next"
-msgstr "DalÅ¡Ã­"
+msgstr ""
 
 #: src/core/containers/InfoDialog/index.js:36
 msgid "Your add-on is ready"
-msgstr "VÃ¡Å¡ doplnÄk je pÅipraven"
+msgstr ""
 
 #: src/core/containers/InfoDialog/index.js:38
 msgid "Now you can access %(name)s from the toolbar."
-msgstr "K doplÅku %(name)s nynÃ­ mÅ¯Å¾ete pÅistupovat z panelu nÃ¡strojÅ¯."
+msgstr ""
 
 #: src/core/containers/InfoDialog/index.js:45
 msgid "OK!"
-msgstr "OK!"
+msgstr ""
 
 #: src/ui/components/ErrorList/index.js:45
 msgid "Your session has expired"
-msgstr "Platnost vaÅ¡Ã­ relace vyprÅ¡ela"
+msgstr ""
 
 #: src/ui/components/ErrorList/index.js:52
 msgid "An unexpected error occurred"
-msgstr "DoÅ¡lo k neoÄekÃ¡vanÃ© chybÄ"
+msgstr ""
 
 #: src/ui/components/ErrorList/index.js:61
 msgid "Reload To Continue"
-msgstr "Pro pokraÄovÃ¡nÃ­ obnovte strÃ¡nku"
+msgstr ""
 
 #: src/ui/components/Rating/index.js:94
 msgid "Rated %(rating)s out of 5"
-msgstr "Ohodnoceno %(rating)s z 5"
+msgstr ""
 
 #: src/ui/components/Rating/index.js:97
 msgid "No ratings"
-msgstr "Nehodnoceno"
+msgstr ""
 
 #: src/ui/components/ShowMoreCard/index.js:62
 msgid "<span class=\"visually-hidden\">Expand to</span> Read more"
-msgstr "<span class=\"visually-hidden\">Rozbalit do</span> PÅeÄÃ­st vÃ­ce"
+msgstr ""
