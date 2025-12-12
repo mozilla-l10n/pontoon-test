@@ -90,7 +90,7 @@ _</source>
       </trans-unit>
       <trans-unit id="12">
         <source xml:lang="en-US">Teach The Web</source>
-        <target xml:lang="en-US"/>
+        <target xml:lang="en-US">Poučujte splet</target>
       </trans-unit>
       <trans-unit id="13">
         <source xml:lang="en-US">/assets/img/icon-teach.svg</source>

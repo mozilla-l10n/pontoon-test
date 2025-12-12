@@ -26,6 +26,36 @@ delete-all-message =
         [few] Izbrišem { $num } prenose?
        *[other] Izbrišem { $num } prenosov?
     }
+# Soft Launch
+default-content-process-count =
+    .label = { $num } (privzeto)
+# PLATFORM() selector
+platform =
+    { PLATFORM() ->
+        [win] Možnosti
+       *[other] Nastavitve
+    }
+# PLATFORM() selector in attribute
+platform-attribute =
+    .title =
+        { PLATFORM() ->
+            [win] Možnosti
+           *[other] Nastavitve
+        }
+# Double selector in attributes
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Izberi …
+           *[other] Prebrskaj …
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] I
+           *[other] P
+        }
+# Term
+-term = Izraz
 # StringExpression
 string-expression = { "" }
 # NumberExpression
