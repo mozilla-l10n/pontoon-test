@@ -1,5 +1,4 @@
 abnormality-noun-345 = Mozilla detected a serious abnormality in its internal data
-abort-verb-426 = Do you want to abort this download
 abuse-verb-330 = In addition any participants who abuse the reporting process will be considered to be in violation of these guidelines
 abuse-noun-331 = Special thanks to all of you who help report abuses of Mozilla marks
 accessible-adjective-329 = The Web should remain open and accessible to all
