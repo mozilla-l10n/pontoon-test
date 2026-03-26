@@ -1,3 +1,5 @@
+abnormality-noun-345 = Mozilla detected a serious abnormality in its internal data
+abuse-verb-330 = Hello
 attack-site-noun-420 = Napadalna stran!
 authenticate-verb-418 = Brez overjanja, če je geslo shranjeno
 authenticated-adjective-417 = Opozorilo: vsebuje neoverjeno vsebino
