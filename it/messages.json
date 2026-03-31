@@ -1,0 +1,24 @@
+{
+  "extensionName": {
+    "message": "Notifica clic link i18n",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Mostra una notifica quando l’utente fa clic su un link.",
+    "description": "Description of the extension."
+  },
+  "notificationTitle": {
+    "message": "Fare clic su notifica",
+    "description": "Title of the click notification."
+  },
+  "notificationContent": {
+    "message": "Hai fatto clic su $URL$.",
+    "description": "Tells the user which link they clicked.",
+    "placeholders": {
+      "URL": {
+        "content": "$1",
+        "example": "https://developer.mozilla.org"
+      }
+    }
+  }
+}

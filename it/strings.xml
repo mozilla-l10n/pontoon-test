@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  This Source Code Form is subject to the terms of the Mozilla Public
+  License, v. 2.0. If a copy of the MPL was not distributed with this
+  file, You can obtain one at http://mozilla.org/MPL/2.0/.
+-->
+
+<resources>
+  <string name="hello">Ciao!</string>
+  <string name="welcome_messages">Hai %d nuovi messaggi.</string>
+  <string name="star_rating">Scopri le nostre 5 stelle</string>
+  <string name="escaped_apostrophe">Un apostrofo \' che è sfuggito</string>
+  <!-- A comment -->
+  <string name="string-with-comment">Una stringa con un commento</string>
+  <!--
+    First comment
+
+    Second comment
+  -->
+  <string name="string-with-two-comments">Una stringa con due commenti</string>
+  <string-array name="planets">
+    <item>Mercurio</item>
+    <item>Venere</item>
+    <item>Terra</item>
+    <item>Marte</item>
+  </string-array>
+  <plurals name="number_of_songs">
+    <item quantity="one">È stato trovato %d brano.</item>
+    <item quantity="other">%d brani trovati.</item>
+  </plurals>
+</resources>
