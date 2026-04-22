@@ -9,7 +9,7 @@
 <resources>
   <string name="hello">PT</string>
   <string name="star_rating">Check out our 5 stars</string>
-  <string name="escaped_apostrophe"><![CDATA[<string name=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"mozac_feature_downloads_percentage_notification_text\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\">% 1 $ s completado</string>]]></string>
+  <string name="escaped_apostrophe"><![CDATA[<string name=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"mozac_feature_downloads_percentage_notification_text\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\">% 1 $ s completado</string>]]></string>
   <!-- A comment -->
   <string name="string-with-comment">Aha</string>
   <!--
@@ -17,7 +17,7 @@
 
     Second comment
   -->
-  <string name="string-with-two-comments"><![CDATA[<string name=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"mozac_feature_downloads_percentage_notification_text\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\">% 1 $ s completado</string>]]></string>
+  <string name="string-with-two-comments"><![CDATA[<string name=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"mozac_feature_downloads_percentage_notification_text\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\">% 1 $ s completado</string>]]></string>
   <string-array name="planets">
     <item>Merkur</item>
     <item>Venera</item>
